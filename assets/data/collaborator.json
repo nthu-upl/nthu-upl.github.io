@@ -1,0 +1,62 @@
+[
+  {
+    "nameEng": "NTHU",
+    "nameCht": "國立清華大學",
+    "logo": "/assets/images/collaborators/NTHU.png"
+  },
+  {
+    "nameEng": "NTU",
+    "nameCht": "國立臺灣大學",
+    "logo": "/assets/images/collaborators/NTU.png"
+  },
+  {
+    "nameEng": "NCYU",
+    "nameCht": "國立陽明交通大學",
+    "logo": "/assets/images/collaborators/NYCU.jpg"
+  },
+  {
+    "nameEng": "NCKU",
+    "nameCht": "國立成功大學",
+    "logo": "/assets/images/collaborators/NCKU.png"
+  },
+  {
+    "nameEng": "CYCU",
+    "nameCht": "中原大學",
+    "logo": "/assets/images/collaborators/CYCU.png"
+  },
+  {
+    "nameEng": "MCUT",
+    "nameCht": "明志科技大學",
+    "logo": "/assets/images/collaborators/MCUT.png"
+  },
+  {
+    "nameEng": "Academia Sinica",
+    "nameCht": "中央研究院",
+    "logo": "/assets/images/collaborators/NCKU.png"
+  },
+  {
+    "nameEng": "ITRI",
+    "nameCht": "工業技術研究院",
+    "logo": "/assets/images/collaborators/ITRI.png"
+  },
+  {
+    "nameEng": "Kyushu University",
+    "nameCht": "九州大學",
+    "logo": "/assets/images/collaborators/KYUU.png"
+  },
+  {
+    "nameEng": "VUW",
+    "nameCht": "惠靈頓維多利亞大學",
+    "logo": "/assets/images/collaborators/VUW.jpg"
+  },
+  {
+    "nameEng": "Ghent University",
+    "nameCht": "根特大學",
+    "logo": "/assets/images/collaborators/GU.png"
+  },
+  {
+    "nameEng": "Boston University",
+    "nameCht": "波士頓大學",
+    "logo": "/assets/images/collaborators/BostonUni.png"
+  }
+]
